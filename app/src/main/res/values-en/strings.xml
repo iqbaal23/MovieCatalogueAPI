@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieCatalogueAPI</string>
+    <string name="tab_movies">MOVIES</string>
+    <string name="tab_tv_shows">TV SHOWS</string>
+    <string name="overview">Overview</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
